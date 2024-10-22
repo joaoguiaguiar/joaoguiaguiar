@@ -28,7 +28,6 @@ Tenho conhecimento em HTML, CSS, JavaScript, Sass, Bootstrap e React. Além diss
       <li>Listas, entre outros</li>
     </ul>
   </div>
-
   <div>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge" />
     <ul style="list-style-type: none; padding: 0; margin: 0;">
@@ -39,7 +38,6 @@ Tenho conhecimento em HTML, CSS, JavaScript, Sass, Bootstrap e React. Além diss
       <li>Animations, entre outros</li>
     </ul>
   </div>
-
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge" />
     <ul style="list-style-type: none; padding: 0; margin: 0;">
@@ -61,7 +59,6 @@ Tenho conhecimento em HTML, CSS, JavaScript, Sass, Bootstrap e React. Além diss
       <li>Criação de rotas com React Router DOM, entre outros</li>
     </ul>
   </div>
-
   <div>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript badge" />
     <ul style="list-style-type: none; padding: 0; margin: 0;">
