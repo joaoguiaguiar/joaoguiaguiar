@@ -1,8 +1,8 @@
 ### Olá eu sou o João Guilherme 👋🏾 💻
 
-Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas na UDF, com previsão de formatura para este ano. Meu foco está no desenvolvimento web, e atualmente, estou dedicando meus estudos ao desenvolvimento front-end.
+Sou estudante formado em Análise e Desenvolvimento de Sistemas pela UDF (2024). Meu foco está no desenvolvimento web, e atualmente, estou dedicando meus estudos ao desenvolvimento front-end.
 
-Tenho conhecimento em HTML, CSS, JavaScript, Sass, Bootstrap e React. Além disso, estou aprofundando meus estudos em React com TypeScript para criar aplicações web mais eficientes e modernas.
+Tenho conhecimento em HTML, CSS, JavaScript, Sass, Bootstrap, React e TypeScript. Além disso, estou aprofundando meus estudos em React com TypeScript para criar aplicações mais eficientes e modernas.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguiaguiar&hide_progress=true)
 
