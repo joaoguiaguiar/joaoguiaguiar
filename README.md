@@ -1,9 +1,8 @@
 ### Olá eu sou o João Guilherme 👋🏾 💻
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela UDF (2024). Meu foco está no desenvolvimento web, e atualmente, estou dedicando meus estudos ao desenvolvimento front-end.
+Sou formado em Análise e Desenvolvimento de Sistemas pela UDF (2024) e atualmente atuo no mercado de trabalho como desenvolvedor web. Tenho experiência real com desenvolvimento front-end, utilizando React e WordPress, e também venho ganhando experiência no back-end, me desenvolvendo como full stack.
 
-Tenho conhecimento em HTML, CSS, JavaScript, Sass, Bootstrap, React e TypeScript. Além disso, estou aprofundando meus estudos em React com TypeScript para criar aplicações mais eficientes e modernas.
-
+Trabalho tanto com projetos em React quanto com desenvolvimento de sites personalizados em WordPress, utilizando PHP. Tenho uma base sólida em HTML, CSS, JavaScript, Sass, Bootstrap e TypeScript, além de conhecimentos em MySQL e MongoDB.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguiaguiar&hide_progress=true)
 
 ### Contribuições:
