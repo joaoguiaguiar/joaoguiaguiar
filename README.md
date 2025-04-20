@@ -4,10 +4,8 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela UDF (2024) e atualmen
 
 Trabalho tanto com projetos em React quanto com desenvolvimento de sites personalizados em WordPress, utilizando PHP. Tenho uma base sólida em HTML, CSS, JavaScript, Sass, Bootstrap e TypeScript, além de conhecimentos em MySQL e MongoDB.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguiaguiar&hide_progress=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=joaoguiaguiar&show_icons=true&theme=radical" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguiaguiar&hide_progress=true)  
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguiaguiar&show_icons=true&theme=radical)
 
 ### Minhas habilidades:
 
