@@ -3,11 +3,11 @@
 Sou formado em Análise e Desenvolvimento de Sistemas pela UDF (2024) e atualmente atuo no mercado de trabalho como desenvolvedor web. Tenho experiência real com desenvolvimento front-end, utilizando React e WordPress, e também venho ganhando experiência no back-end, me desenvolvendo como full stack.
 
 Trabalho tanto com projetos em React quanto com desenvolvimento de sites personalizados em WordPress, utilizando PHP. Tenho uma base sólida em HTML, CSS, JavaScript, Sass, Bootstrap e TypeScript, além de conhecimentos em MySQL e MongoDB.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguiaguiar&hide_progress=true)
 
-### Contribuições:
-
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguiaguiar&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguiaguiar&hide_progress=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaoguiaguiar&show_icons=true&theme=radical" />
+</div>
 
 ### Minhas habilidades:
 
@@ -24,4 +24,3 @@ Trabalho tanto com projetos em React quanto com desenvolvimento de sites persona
 
 [![Blog](https://img.shields.io/website?label=joaoguiaguiar.com&style=for-the-badge&url=https://joaoguiaguiar.com/)](https://dev-curriculo-joaoguiar.vercel.app/?vercelToolbarCode=HyAMxpw-RBMP0Q5)  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-guilherme-rodrigues-aguiar/)
-
