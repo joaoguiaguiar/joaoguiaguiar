@@ -1,6 +1,6 @@
 ### Olá eu sou o João Guilherme 👋🏾 💻
 
-Sou  formado em Análise e Desenvolvimento de Sistemas pela UDF (2024). Meu foco está no desenvolvimento web, e atualmente, estou dedicando meus estudos ao desenvolvimento front-end.
+Sou formado em Análise e Desenvolvimento de Sistemas pela UDF (2024). Meu foco está no desenvolvimento web, e atualmente, estou dedicando meus estudos ao desenvolvimento front-end.
 
 Tenho conhecimento em HTML, CSS, JavaScript, Sass, Bootstrap, React e TypeScript. Além disso, estou aprofundando meus estudos em React com TypeScript para criar aplicações mais eficientes e modernas.
 
@@ -17,10 +17,12 @@ Tenho conhecimento em HTML, CSS, JavaScript, Sass, Bootstrap, React e TypeScript
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Contatos:
 
 [![Blog](https://img.shields.io/website?label=joaoguiaguiar.com&style=for-the-badge&url=https://joaoguiaguiar.com/)](https://dev-curriculo-joaoguiar.vercel.app/?vercelToolbarCode=HyAMxpw-RBMP0Q5)  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-guilherme-rodrigues-aguiar/)
-
 
