@@ -1,8 +1,10 @@
 ### Olá eu sou o João Guilherme 👋🏾 💻
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela UDF (2024) e atualmente atuo no mercado de trabalho como desenvolvedor web. Tenho experiência real com desenvolvimento front-end, utilizando React e WordPress, e também venho ganhando experiência no back-end, me desenvolvendo como full stack.
+Formado em Análise e Desenvolvimento de Sistemas pelo UDF (2024), com foco em desenvolvimento web, atualmente atuo no mercado como Desenvolvedor Full Stack. Tenho experiência em desenvolvimento front-end, utilizando HTML, CSS, JavaScript e TypeScript, além de frameworks e bibliotecas como React, Bootstrap, Twind e SCSS.
 
-Trabalho tanto com projetos em React quanto com desenvolvimento de sites personalizados em WordPress, utilizando PHP. Tenho uma base sólida em HTML, CSS, JavaScript, Sass, Bootstrap e TypeScript, além de conhecimentos em MySQL e MongoDB.
+No back-end, tenho experiência com Node.js e PHP, além de bancos de dados relacionais e não relacionais como MySQL e MongoDB. Possuo também experiência sólida em WordPress, incluindo criação de temas altamente customizados e plugins, com participação ativa na gestão do plugin Tainacan para coleções digitais.
+
+Busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores, aliando eficiência técnica às melhores práticas de desenvolvimento.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguiaguiar&hide_progress=true)  
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguiaguiar&show_icons=true&theme=radical)
