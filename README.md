@@ -4,9 +4,9 @@ Formado em Análise e Desenvolvimento de Sistemas pelo UDF (2024), com foco em d
 
 No front-end, trabalho com HTML, CSS, JavaScript e TypeScript, utilizando frameworks e bibliotecas como React, Bootstrap, SCSS e Twind.
 
-No back-end, desenvolvo aplicações com Node.js e PHP, integrando bancos de dados relacionais e não relacionais, como MySQL e MongoDB.
+No back-end, tenho experiência com Node.js e PHP, além de bancos de dados relacionais e não relacionais, como MySQL e MongoDB.
 
-Tenho também ampla experiência com WordPress, incluindo criação de temas altamente customizados e desenvolvimento de plugins. Participei ativamente da gestão e evolução do plugin Tainacan, voltado para coleções digitais.ento.
+Tenho também ampla experiência com WordPress, incluindo criação de temas altamente customizados e desenvolvimento de plugins. Atualmente participo da gestão e evolução do plugin Tainacan, voltado para coleções digitais.
 
 Busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores, aliando eficiência técnica às melhores práticas de desenvolvimento.
 
