@@ -29,5 +29,5 @@ Busco constantemente aprimorar minhas habilidades e contribuir para projetos ino
 
 ## Contatos:
 
-[![Blog](https://img.shields.io/website?label=joaoguiaguiar.com&style=for-the-badge&url=https://joaoguiaguiar.com/)](https://dev-curriculo-joaoguiar.vercel.app/?vercelToolbarCode=HyAMxpw-RBMP0Q5)  
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-guilherme-rodrigues-aguiar/)
