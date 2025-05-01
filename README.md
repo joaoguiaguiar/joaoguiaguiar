@@ -1,6 +1,6 @@
 ### Olá eu sou o João Guilherme 👋🏾 💻
 
-Formado em Análise e Desenvolvimento de Sistemas pelo UDF (2024), com foco em desenvolvimento web. Atualmente atuo como Desenvolvedor Full Stack, com experiência sólida tanto em front-end quanto back-end.
+Formado em Análise e Desenvolvimento de Sistemas pelo UDF (2024), com foco em desenvolvimento web. Atualmente trabalho como Desenvolvedor Full Stack, com experiência sólida tanto em front-end quanto back-end.
 
 No front-end, trabalho com HTML, CSS, JavaScript e TypeScript, utilizando frameworks e bibliotecas como React, Bootstrap, SCSS e Twind.
 
