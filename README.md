@@ -1,8 +1,8 @@
 Desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas pelo UDF (2024), com foco em desenvolvimento web.
 
-No front-end, trabalho com JavaScript e TypeScript, utilizando frameworks e bibliotecas como React, Bootstrap, SCSS e Twind.
+Atuo no front-end com JavaScript e TypeScript, utilizando frameworks e bibliotecas como React, Bootstrap, SCSS e Twind.
 
-No back-end, tenho experiência com Node.js, PHP, MySQL e MongoDB.
+No back-end, trabalho com Node.js, PHP, MySQL e MongoDB.
 
 Também tenho forte atuação com WordPress, desenvolvendo temas customizados e plugins. Atualmente participo da evolução do plugin Tainacan, voltado à gestão de coleções digitais.
 
