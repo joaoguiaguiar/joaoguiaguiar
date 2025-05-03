@@ -1,4 +1,4 @@
-Desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas pelo UDF (2024), com foco em desenvolvimento web.
+Desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas pela UDF (2024), com foco em desenvolvimento web.
 
 Atuo no front-end com JavaScript e TypeScript, utilizando frameworks e bibliotecas como React, Bootstrap, SCSS e Twind.
 
