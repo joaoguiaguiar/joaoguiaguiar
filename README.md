@@ -1,12 +1,12 @@
 ### Olá eu sou o João Guilherme 👋🏾 💻
 
-Formado em Análise e Desenvolvimento de Sistemas pelo UDF (2024), com foco em desenvolvimento web. Atualmente trabalho como Desenvolvedor Full Stack, com experiência sólida tanto em front-end quanto back-end.
+Desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas pelo UDF (2024), com foco em desenvolvimento web.
 
-No front-end, trabalho com HTML, CSS, JavaScript e TypeScript, utilizando frameworks e bibliotecas como React, Bootstrap, SCSS e Twind.
+No front-end, trabalho com HTML, CSS, JavaScript e TypeScript, usando frameworks como React, Bootstrap, SCSS e Tailwind (Twind).
 
-No back-end, tenho experiência com Node.js e PHP, além de bancos de dados relacionais e não relacionais, como MySQL e MongoDB.
+No back-end, tenho experiência com Node.js, PHP, MySQL e MongoDB.
 
-Tenho também ampla experiência com WordPress, incluindo criação de temas altamente customizados e desenvolvimento de plugins. Atualmente participo da gestão e evolução do plugin Tainacan, voltado para coleções digitais.
+Também tenho forte atuação com WordPress, desenvolvendo temas customizados e plugins. Atualmente participo da evolução do plugin Tainacan, voltado à gestão de coleções digitais.
 
 Busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores, aliando eficiência técnica às melhores práticas de desenvolvimento.
 
