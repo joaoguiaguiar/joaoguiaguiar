@@ -2,7 +2,7 @@
 
 Desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas pelo UDF (2024), com foco em desenvolvimento web.
 
-No front-end, trabalho com HTML, CSS, JavaScript e TypeScript, usando frameworks como React, Bootstrap, SCSS e Tailwind (Twind).
+No front-end, trabalho com HTML, CSS, JavaScript e TypeScript, utilizando frameworks e bibliotecas como React, Bootstrap, SCSS e Twind.
 
 No back-end, tenho experiência com Node.js, PHP, MySQL e MongoDB.
 
