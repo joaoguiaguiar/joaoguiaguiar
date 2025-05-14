@@ -1,6 +1,6 @@
 Desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas pela UDF (2024), com foco em desenvolvimento web.
 
-Atuo no front-end com JavaScript e TypeScript, utilizando frameworks e bibliotecas como React, Bootstrap, SCSS e Twind.
+Atuo no front-end com JavaScript e TypeScript, utilizando frameworks e bibliotecas como React, Bootstrap, SCSS e Tailwind CSS.
 
 No back-end, trabalho com Node.js, PHP, MySQL e MongoDB.
 
@@ -20,7 +20,7 @@ Busco constantemente aprimorar minhas habilidades e contribuir para projetos ino
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Twind](https://img.shields.io/badge/Twind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 
