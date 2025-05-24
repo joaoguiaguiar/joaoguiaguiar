@@ -1,13 +1,3 @@
-Desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas pela UDF (2024), com foco em desenvolvimento web.
-
-Atuo no front-end com JavaScript e TypeScript, utilizando frameworks e bibliotecas como React, Bootstrap, SCSS e Tailwind CSS.
-
-No back-end, trabalho com Node.js, PHP, MySQL e MongoDB.
-
-Também tenho forte atuação com WordPress, desenvolvendo temas customizados e plugins. Atualmente participo da evolução do plugin Tainacan, voltado à gestão de coleções digitais.
-
-Busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores, aliando eficiência técnica às melhores práticas de desenvolvimento.
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguiaguiar&hide_progress=true)  
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguiaguiar&show_icons=true&theme=radical)
 
