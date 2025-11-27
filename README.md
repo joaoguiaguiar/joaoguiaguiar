@@ -22,10 +22,9 @@ Atualmente atuo como Analista de Desenvolvimento Full-Stack & DevOps no Institut
 
 ### **DevOps & Outros**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,wordpress,gitlab,githubactions,jenkins" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,wordpress,gitlab,githubactions,jenkins,linux" />
   <img src="https://custom-icon-badges.demolab.com/badge/MobaXterm-000000?style=for-the-badge&logo=terminal&logoColor=white" />
 </div>
-
 
 ## 📊 GitHub Stats
 
@@ -38,4 +37,4 @@ Atualmente atuo como Analista de Desenvolvimento Full-Stack & DevOps no Institut
 
 ## 📫 Contatos
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoguiaguiar/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-guilherme-rodrigues-aguiar/)
