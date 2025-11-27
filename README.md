@@ -1,6 +1,6 @@
 # Olá, eu sou o João! 👋
 
-Analista de Desenvolvimento Full-Stack & DevOps apaixonado por tecnologia e sempre em busca de novos aprendizados.
+Atualmente atuo como Analista de Desenvolvimento Full-Stack & DevOps no Instituto Brasileiro de Museus (IBRAM) e busco sempre aprimorar minhas habilidades e adquirir novos aprendizados na área de tecnologia.
 
 ## 🚀 Tecnologias & Ferramentas
 
