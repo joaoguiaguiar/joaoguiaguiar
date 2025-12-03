@@ -32,9 +32,6 @@ Atualmente atuo como Analista de Desenvolvimento Full-Stack & DevOps no Institut
   <a href="https://github.com/joaoguiaguiar">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoguiaguiar&show_icons=true&theme=radical" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguiaguiar&layout=compact&hide_progress=true" />
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoguiaguiar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguiaguiar&layout=compact&hide_progress=true)
-
   </a>
 </div>
 
