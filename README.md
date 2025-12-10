@@ -26,15 +26,6 @@ Atualmente atuo como Analista de Desenvolvimento Full-Stack & DevOps no Institut
   <img src="https://custom-icon-badges.demolab.com/badge/MobaXterm-000000?style=for-the-badge&logo=terminal&logoColor=white" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/joaoguiaguiar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoguiaguiar&show_icons=true&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguiaguiar&layout=compact&hide_progress=true" />
-  </a>
-</div>
-
 ## 📫 Contatos
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-guilherme-rodrigues-aguiar/)
