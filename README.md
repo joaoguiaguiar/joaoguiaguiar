@@ -2,7 +2,7 @@
 
 Atualmente atuo como Desenvolvedor Full Stack & DevOps no Instituto Brasileiro de Museus (IBRAM) 🏛️🇧🇷, busco sempre aprimorar minhas habilidades e adquirir novos aprendizados na área da tecnologia.
 
-## 🚀 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 ### **Front-end**
 <div align="left">
