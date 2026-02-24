@@ -1,4 +1,4 @@
-# Olá, eu sou o João! 👋
+# Olá, eu sou o João! 
 
 Atualmente atuo como Desenvolvedor Full Stack & DevOps no Instituto Brasileiro de Museus (IBRAM) 🏛️🇧🇷, busco sempre aprimorar minhas habilidades e adquirir novos aprendizados na área da tecnologia.
 
