@@ -4,7 +4,7 @@ Desenvolvedor Full Stack & DevOps no Instituto Brasileiro Museus (IBRAM) 🏛️
 
 ## 🛠️ Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,php,mysql,mongodb,docker,kubernetes,linux,gitlab,wordpress" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,sass,nodejs,php,mysql,mongodb,docker,kubernetes,linux,gitlab,wordpress" />
 </div>
 
 ## 📫 Contatos
