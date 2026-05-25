@@ -2,7 +2,7 @@
 
 Desenvolvedor e pesquisador com foco em aplicações web e software livre 
 
-Trabalho com desenvolvimento de plataformas web para instituições públicas e projetos privados, criando soluções acessíveis, modernas e fáceis de manter.
+Atuo no desenvolvimento de aplicações web para instituições públicas e projetos privados, criando soluções acessíveis, modernas e fáceis de manter.
 
 #### Full Stack Developer | DevOps
 
