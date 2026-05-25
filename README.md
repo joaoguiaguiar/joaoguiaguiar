@@ -2,8 +2,10 @@
 
 Desenvolvedor e pesquisador com foco em aplicações web e software livre 
 
+Trabalho com desenvolvimento de plataformas web para instituições públicas e projetos privados, buscando criar soluções acessíveis, modernas e fáceis de manter.
 
-## Full Stack Developer | DevOps
+
+### Full Stack Developer | DevOps
 
 ## 🛠️ Tech Stack
 <div align="left">
