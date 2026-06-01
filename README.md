@@ -1,4 +1,4 @@
-# Salvee, sou o João! 
+# Olá, sou o João! 
 
 Desenvolvedor e pesquisador com foco em aplicações web e software livre 
 
