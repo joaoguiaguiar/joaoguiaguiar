@@ -6,7 +6,7 @@ Atuo no desenvolvimento de aplicações web para instituições públicas e proj
 
 #### Full Stack Developer | DevOps
 
-## Stack
+#### Stack
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,sass,nodejs,php,mysql,mongodb,docker,kubernetes,linux,gitlab,wordpress" />
 </div>
